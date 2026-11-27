@@ -426,3 +426,12 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# MCUXpresso / Eclipse CDT (embedded firmware builds)
+*.axf
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
